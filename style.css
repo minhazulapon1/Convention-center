@@ -1,0 +1,27 @@
+.navcolor {
+    color: #3E3E3E;
+}
+
+.list {
+    list-style: none;
+}
+
+.ancor {
+    height: 40px;
+    width: 150px;
+}
+
+.footer {
+    height: 200px;
+}
+
+.fontsize {
+    font-size: 10px;
+    line-height: 10px;
+
+}
+
+.apple {
+    height: 40px;
+    width: 135px;
+}
